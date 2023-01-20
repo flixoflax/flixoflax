@@ -17,8 +17,8 @@ Web Developer and Designer
 Dear small business owners, creatives and people who love to bring ideas to life: your wishes have been granted. I'm Niels, a development enthusiast with a passion for design and entrepreneurship. Whether it is to bring a new product to market, design a stunning website, or develop a mobile app that will sell like hotcakes. I want to help you do that.
 
 * 🌍  I'm based in Berlin
-* 🖥️  See my portfolio at [Institut 4000](http://www.institut4000.gmbh?utm_medium=social&utm_source=Github&utm_campaign=profile_readme)
-* ✉️  You can contact me at [contact@institut4000.gmbh](mailto:contact@institut4000.gmbh)
+* 🖥️  See my portfolio at [Institut 4000](http://www.institut4000.io?utm_medium=social&utm_source=Github&utm_campaign=profile_readme)
+* ✉️  You can contact me at [contact@institut4000.io](mailto:contact@institut4000.io)
 * 🚀  I'm currently working on [jym 😼](http://github.com/flixoflax/jym)
 * 🧠  I'm learning NextJs 13
 * 🤝  I'm open to collaborating on interesting projects of all kinds
